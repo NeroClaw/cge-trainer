@@ -1,5 +1,9 @@
 # CGE · Le vrai du faux — trainer BTS SIO (session 2027)
 
+**🔗 En ligne :** https://neroclaw.github.io/cge-trainer/ · **📦 Code :** https://github.com/NeroClaw/cge-trainer
+
+---
+
 Trainer interactif pour l'épreuve de **Culture générale et expression** du BTS, thème 2027 « Le vrai du faux ».
 
 ## Ce que couvre le site
